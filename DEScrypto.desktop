@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=DEScrypto
+GenericName=DEScrypto
+Comment=运行DEScrypto.jar的shell脚本
+Exec=/home/hong/Program/java/DES/mydes/DEScrypto.sh %f
+Icon=/home/hong/Program/java/DES/mydes/logo.png
+Path=/home/hong/Program/java/DES/mydes
+Terminal=true
+Type=Application
+Categories=Application;Programme;
